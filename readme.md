@@ -68,6 +68,4 @@ Decryption is done automatically, regardless of what encryptions were used and w
 
 This software is not guaranteed to encrypt data safely or securely. Use of this software implies you have read this disclaimer and understand the risks. I am not liable for any data loss, damage, privacy damage, or other consequences resulting from use of this software.
 
-## License
 
-[MIT License](license.txt)
